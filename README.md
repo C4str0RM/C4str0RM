@@ -3,6 +3,7 @@
 # 👩‍💻 Raycka Castro
 
 Desenvolvedora em formação, apaixonada por tecnologia e soluções inteligentes. Estudante de ADS focada em evoluir com projetos práticos e aprendizado constante.
+---------------------------------------------------------------------------------------------------------------------
 
 ## 🛠️ Tecnologias que estudo e utilizo
 
@@ -16,17 +17,7 @@ Desenvolvedora em formação, apaixonada por tecnologia e soluções inteligente
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-## 📂 Projetos em destaque
-
-- **Atividades Java – Faculdade ADS**  
-  Repositório com exercícios básicos em Java desenvolvidos durante o curso. Inclui estruturas condicionais, loops e manipulação de dados.  
-  [Ver projeto](https://github.com/C4str0RM/Atividade-Java---Facul)
-
-- **Elite Vougue – Loja Virtual**  
-  Projeto de site institucional desenvolvido no WordPress com ajustes em CSS. Design criado no Figma.  
-  [Ver projeto](https://github.com/C4str0RM/Elite-Vougue)
-
+---------------------------------------------------------------------------------------------------------------------
 ## 📫 Contato
 
 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/raycka-messa-de-castro-408264327/) ou acompanhar meus projetos por aqui no GitHub.
