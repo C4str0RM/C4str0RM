@@ -2,7 +2,7 @@
 
 # 👩‍💻 Raycka Castro
 
-Desenvolvedora em formação, apaixonada por tecnologia e soluções inteligentes. Estudante de ADS focada em evoluir com projetos práticos e aprendizado constante.
+*Desenvolvedora em formação, apaixonada por tecnologia e soluções inteligentes. Estudante de ADS focada em evoluir com projetos práticos e aprendizado constante.*
 ---------------------------------------------------------------------------------------------------------------------
 
 ## 🛠️ Tecnologias que estudo e utilizo
