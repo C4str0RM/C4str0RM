@@ -7,7 +7,7 @@ Gosto de transformar ideias em interfaces intuitivas, explorar novas tecnologias
 
 ------------------------------------------------------------------------------------
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias que estudo e utilizo
 
 <div align="center">
 
@@ -34,8 +34,6 @@ Gosto de transformar ideias em interfaces intuitivas, explorar novas tecnologias
 ![Raycka GitHub Stats](https://github-readme-stats.vercel.app/api?username=C4str0RM&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C4str0RM&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=C4str0RM&theme=radical)
 
 </div>
 
