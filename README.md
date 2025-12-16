@@ -11,17 +11,14 @@
 - 😄 Pronouns: She/Her  
 - 👩‍💻 More projects coming soon…
 
----
 
 ![Raycka's GitHub stats](https://github-readme-stats.vercel.app/api?username=C4str0RM&hide=stars,issues,contribs&show_icons=true&theme=synthwave)
 
----
 
 ## ⭐ Featured Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C4str0RM&repo=Cardapio-Digital_2.0&theme=synthwave)](https://github.com/C4str0RM/Cardapio-Digital_2.0)
 
----
 
 ## 🛠️ Technologies & Tools
 
@@ -45,7 +42,6 @@
 
 </p>
 
----
 
 ## 📬 Connect with me
 
