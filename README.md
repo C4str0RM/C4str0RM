@@ -1,13 +1,13 @@
-------------------------------------------------------------------------------------
+<h1 align="center">👩‍💻 Raycka Castro</h1>
 
-# 👩‍💻 Raycka Castro
+<p align="center">
+Desenvolvedora em formação, focada em criar interfaces intuitivas, soluções funcionais e experiências digitais bem estruturadas.  
+Apaixonada por tecnologia, aprendizado contínuo e evolução através de projetos reais.
+</p>
 
-Desenvolvedora em formação, apaixonada por criar soluções práticas, funcionais e bem estruturadas.  
-Gosto de transformar ideias em interfaces intuitivas, explorar novas tecnologias e evoluir através de projetos reais e desafios técnicos.
+---
 
-------------------------------------------------------------------------------------
-
-## 🚀 Tecnologias que estudo e utilizo
+## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -15,19 +15,23 @@ Gosto de transformar ideias em interfaces intuitivas, explorar novas tecnologias
 
 </div>
 
+---
+
 ## ⭐ Projetos em Destaque
 
 ### 🍰 **Delícias no Pote — Cardápio Digital 2.0**
+Sistema completo para gerenciamento de cardápio, com:
 - CRUD completo (criar, editar, listar e excluir)
-- Edição em tempo real com Supabase  
-- Interface revisada e responsiva  
-- Tailwind + CSS tradicional para consistência visual  
+- Edição em tempo real com Supabase
+- Interface responsiva e otimizada
+- Tailwind + CSS tradicional para consistência visual
+
 🔗 **Deploy:** https://deliciasnopoterm.netlify.app  
-🔗 **GitHub:** https://github.com/C4str0RM/Cardapio-Digital_2.0
+🔗 **Repositório:** https://github.com/C4str0RM/Cardapio-Digital_2.0
 
-------------------------------------------------------------------------------------
+---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 
 <div align="center">
 
@@ -35,14 +39,30 @@ Gosto de transformar ideias em interfaces intuitivas, explorar novas tecnologias
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C4str0RM&layout=compact&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=C4str0RM&theme=radical)
+
 </div>
 
-------------------------------------------------------------------------------------
+---
+
+## 💬 Sobre mim
+
+- 🌱 Sempre estudando novas tecnologias e boas práticas  
+- 🎨 Apaixonada por design, usabilidade e interfaces limpas  
+- 🧠 Gosto de resolver problemas e transformar ideias em projetos reais  
+- 🚀 Buscando oportunidades para crescer como Full Stack Developer
+
+---
 
 ## 📫 Contato
 
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/raycka-messa-de-castro-408264327/)  
-ou acompanhar meus projetos aqui no GitHub.
+<div align="center">
 
-_“Código limpo é como poesia: direto, elegante e funcional.”_
+📎 [LinkedIn](https://www.linkedin.com/in/raycka-messa-de-castro-408264327/)  
+📎 **GitHub:** você já está aqui 💛  
 
+</div>
+
+---
+
+<p align="center"><i>“Código limpo é como poesia: direto, elegante e funcional.”</i></p>
