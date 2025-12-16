@@ -39,8 +39,6 @@ Sistema completo para gerenciamento de cardápio, com:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C4str0RM&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=C4str0RM&theme=radical)
-
 </div>
 
 ---
