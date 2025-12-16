@@ -3,7 +3,7 @@
 # 👩‍💻 Raycka Castro
 
 Desenvolvedora em formação, apaixonada por criar soluções práticas, funcionais e bem estruturadas.  
-Evoluindo continuamente através de projetos reais, desafios técnicos e aprendizado constante.
+Gosto de transformar ideias em interfaces intuitivas, explorar novas tecnologias e evoluir através de projetos reais e desafios técnicos.
 
 ------------------------------------------------------------------------------------
 
@@ -14,6 +14,18 @@ Evoluindo continuamente através de projetos reais, desafios técnicos e aprendi
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,php,java,supabase,git,wordpress,netlify,figma,canva&perline=7)
 
 </div>
+
+------------------------------------------------------------------------------------
+
+## ⭐ Projetos em Destaque
+
+### 🍰 **Delícias no Pote — Cardápio Digital 2.0**
+- CRUD completo (criar, editar, listar e excluir)
+- Edição em tempo real com Supabase  
+- Interface revisada e responsiva  
+- Tailwind + CSS tradicional para consistência visual  
+🔗 **Deploy:** https://deliciasnopoterm.netlify.app  
+🔗 **GitHub:** https://github.com/C4str0RM/Cardapio-Digital_2.0
 
 ------------------------------------------------------------------------------------
 
@@ -37,3 +49,4 @@ Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/raycka-messa-d
 ou acompanhar meus projetos aqui no GitHub.
 
 _“Código limpo é como poesia: direto, elegante e funcional.”_
+
