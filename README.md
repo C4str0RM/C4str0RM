@@ -14,7 +14,6 @@ Gosto de transformar ideias em interfaces intuitivas, explorar novas tecnologias
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,php,java,supabase,git,wordpress,netlify,figma,canva&perline=7)
 
 </div>
-------------------------------------------------------------------------------------
 
 ## ⭐ Projetos em Destaque
 
