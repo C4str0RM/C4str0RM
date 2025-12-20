@@ -13,7 +13,7 @@
 - 😄 Pronouns: She/Her  
 - 👩‍💻 More projects coming soon…
 
-![Raycka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayck4deva&hide=stars,issues,contribs&show_icons=true&theme=synthwave)
+![Raycka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayck4dev&hide=stars,issues,contribs&show_icons=true&theme=synthwave)
 
 ## ⭐ Featured Projects
 
