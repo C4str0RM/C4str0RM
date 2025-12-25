@@ -13,12 +13,6 @@
 - 😄 Pronouns: She/Her  
 - 👩‍💻 More projects coming soon…
 
-![Raycka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayck4dev&hide=stars,issues,contribs&show_icons=true&theme=synthwave)
-
-## ⭐ Featured Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C4str0RM&repo=Cardapio-Digital_2.0&theme=synthwave)](https://github.com/C4str0RM/Cardapio-Digital_2.0)
-
 ## 🛠️ Technologies & Tools
 
 <p align="left">
@@ -61,12 +55,6 @@
 - 📫 Contato: **messacastrotto@gmail.com**  
 - 😄 Pronomes: Ela/Dela  
 - 👩‍💻 Mais projetos em breve…
-
-![Raycka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayck4dev&hide=stars,issues,contribs&show_icons=true&theme=synthwave)
-
-## ⭐ Projetos em Destaque
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C4str0RM&repo=Cardapio-Digital_2.0&theme=synthwave)](https://github.com/C4str0RM/Cardapio-Digital_2.0)
 
 ## 🛠️ Tecnologias & Ferramentas
 
