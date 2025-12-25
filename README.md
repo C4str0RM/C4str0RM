@@ -62,7 +62,7 @@
 - 😄 Pronomes: Ela/Dela  
 - 👩‍💻 Mais projetos em breve…
 
-![Estatísticas do GitHub da Raycka](https://github-readme-stats.vercel.app/api?username=Rayck4dev&hide=stars,issues,contribs&show_icons=true&theme=synthwave)
+![Raycka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayck4dev&hide=stars,issues,contribs&show_icons=true&theme=synthwave)
 
 ## ⭐ Projetos em Destaque
 
